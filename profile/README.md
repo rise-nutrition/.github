@@ -1,3 +1,5 @@
+![Rise Nutrition Logo](https://raw.githubusercontent.com/rise-nutrition/.github/main/images/logo-horizontal.png)
+
 ## Welcome, Coder 👋💻
 
 [Rise Nutrition](https://www.risenutrition.org) is a multi-dimensional platform that aims to optimize athlete nutrition and performance through data & analytics.
